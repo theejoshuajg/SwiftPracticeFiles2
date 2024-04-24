@@ -1,1 +1,5 @@
 # SwiftPracticeFiles2
+This Swift program is like a make-believe store's inventory manager. It's all about keeping track of what's in stock and what's flying off the shelves. First off, it creates a bunch of fake products with random names, prices, and quantities. Then, it figures out how much all that stuff is worth altogether. Next up, it pretends to sell some products, randomly picking items from the inventory and adjusting their quantities to reflect the sales. Along the way, it keeps tabs on what's been sold using a dictionary. Finally, it shows you what was originally in stock, what got sold, and what's left after the imaginary shopping spree. It's basically a fun way to see how Swift handles organizing data and simulating a mini store adventure.
+
+<img width="863" alt="Screenshot 2024-04-23 at 7 29 43 PM" src="https://github.com/theejoshuajg/SwiftPracticeFiles2/assets/113871474/bdae75ec-60d9-4874-acba-af6ed43c3373">
+<img width="861" alt="Screenshot 2024-04-23 at 7 34 32 PM" src="https://github.com/theejoshuajg/SwiftPracticeFiles2/assets/113871474/e1e3d620-ddfd-4add-8848-66d4bff0da6e">
